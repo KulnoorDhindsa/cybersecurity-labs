@@ -1,0 +1,13 @@
+Jan 10 10:15:21 server sshd[1001]: Failed password for alice from 192.168.1.10 port 51234 ssh2
+Jan 10 10:16:21 server sshd[1002]: failed password for alice from 192.168.1.10 port 51235 ssh2
+Jan 10 10:17:21 server sshd[1003]: Failed password for alice from 192.168.1.10 port 51236 ssh2
+Jan 10 10:18:21 server sshd[1004]: Accepted password for alice from 192.168.1.10 port 51237 ssh2
+
+Jan 10 11:10:21 server sshd[1005]: Failed password for admin from 203.0.113.50 port 52100 ssh2
+Jan 10 11:11:21 server sshd[1006]: Failed password for admin from 203.0.113.50 port 52101 ssh2
+Jan 10 11:12:21 server sshd[1007]: Failed password for admin from 203.0.113.50 port 52102 ssh2
+Jan 10 11:13:21 server sshd[1008]: Failed password for admin from 203.0.113.50 port 52103 ssh2
+Jan 10 11:14:21 server shhd[1009]: Accepted password for admin from 203.0.113.50 port 52104 ssh2
+
+Jan 10 12:15:21 server sshd[1010]: Accepted password for bob from 192.168.1.20 port 53000 ssh2
+Jan 10 12:16:21 server sshd[1011]: Failed password for bpb from 192.168.1.20 port 53001 ssh2
