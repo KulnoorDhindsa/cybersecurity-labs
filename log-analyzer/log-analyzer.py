@@ -1,5 +1,3 @@
-import os
-os.chdir("C:\\Users/isdhi/OneDrive/Desktop/CS/GIT_Repos/cybersecurity-labs/log-analyzer")
 from collections import Counter
 
 failed_ips=Counter()
