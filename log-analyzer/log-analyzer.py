@@ -1,3 +1,4 @@
+
 from collections import Counter
 
 failed_ips=Counter()
@@ -15,6 +16,7 @@ with open("auth_log.txt","r") as file:
 print("Failed login attempts by IP:")
 for ip, count in failed_ips.items():
     print(f"{ip}: {count}")
+print(f"Total failed login attempts: {sum(failed_ips.values())}")
 
 print("\nSuspicious IP Addresses:")
 for io, count in failed_ips.items():
